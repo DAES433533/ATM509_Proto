@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+extends:
+  - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
+project:
+  title: ATM 533 Reproducible Project Example
+  github: https://github.com/projectpythia/cookbook-template
+  copyright: '2025'
+  bibliography: 
+    - references.bib
+  toc:
+    - file: 01-Paper.md
+    - file: notebooks/509_Plots.ipynb
+site:
+  template: book-theme
