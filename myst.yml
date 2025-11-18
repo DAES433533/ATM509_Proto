@@ -10,6 +10,9 @@ project:
     - references.bib
   toc:
     - file: 01-Paper.md
-    - file: notebooks/509_Plots.ipynb
+    - title: Notebooks
+      children:
+        - file: notebooks/509_Plots.ipynb
+        - file: notebooks/notebook1.ipynb
 site:
   template: book-theme
