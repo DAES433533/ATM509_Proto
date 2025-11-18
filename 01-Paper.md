@@ -146,6 +146,9 @@ Preliminary work found that ARs were most frequent in the winter months and to t
 NY. Further investigation of AR associated events needs to be conducted, such as stratifying events
 by integrated vapor transport magnitude and comparison to the West Coast.
 
+Future work: use the ERA5, as in {cite:t}`reanalysis:2020`
+
+Census data: {cite:t}`Sawyer:2025`
 ## Figures
 :::{figure} ./images/ATM509_Fig1.png
 :label: Fig1
